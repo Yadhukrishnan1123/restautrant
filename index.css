@@ -1,0 +1,58 @@
+nav  {display: flex;
+    
+    
+    align-items: center;
+background: fixed;}
+
+nav img{width: 5%;
+margin-right: 100px;}
+
+
+nav li{display: inline;}
+.li{display: inline;
+    margin: 20px 20px;
+font-size: 25px;
+font-weight: 700;
+color: lightcoral;
+margin-left: 40px;
+}
+
+nav i{margin-left: 50px;}
+nav button{margin-left: 60px;}
+
+#pic{width: 100%;
+height: 70%;}
+
+#h{text-align: center;}
+
+.food{margin-right: 15px;
+border-radius: 25px;}
+
+.inputitem{width: 80%;
+height: 2rem;
+margin-bottom: 2rem;
+padding-left: 2rem;}
+
+.btn{background-color: rgb(233, 131, 15); border-radius: 25px; height: 25px; width: 10%;}
+.bttn{background-color: rgb(218, 123, 14); color: white; border-radius: 25px; height: 25px; width: 10%;margin-top: 2rem; width: 8rem; height: 2.5rem;}
+#btttn{background-color: rgb(218, 123, 14); color: white; font-size: 20px; border-radius: 25px; height: 25px; width: 10%;margin-top: 2rem; margin-left: -30px; width: 8rem; height: 2.5rem;}
+
+
+footer{background-color: dimgray;
+    color: white;
+width: 100%;
+padding-left: 5%;
+padding-top: 3%;}
+#foot{display: grid;
+grid-template-columns: repeat(2, 1fr);}
+
+#footin{display: grid;
+    grid-template-columns: repeat(2, 1fr);}
+
+    div i{margin-right: 1rem;}
+    .litems{list-style: none;
+font-size: 18px;
+margin-bottom: 1rem;}
+.footlist{display: inline;
+margin-right: 1rem;
+font-size: 16px;}
